@@ -1,0 +1,23 @@
+name: beaRSZ
+favicon: null
+layout_spectrum: 0.2416428360156715
+typography_spectrum: 0.05058588250540197
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2290498826187104
+  lightness: 0.02073603216558695
+  saturation: 0.5672452219296247
+  rhythmicContrast: 0.6431315739173442
+purpose: []
