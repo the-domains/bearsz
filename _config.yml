@@ -1,23 +1,40 @@
-name: beaRSZ
-favicon: null
-layout_spectrum: 0.2416428360156715
-typography_spectrum: 0.05058588250540197
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.1875
-  lightness: 0.02073603216558695
-  saturation: 0.5672452219296247
-  rhythmicContrast: 0.6431315739173442
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5672452219296247
+  lightness: 0.02073603216558695
+  brandStrength: 1
+  brandColors:
+    - '#1F1F30'
+    - '#FFFFFF'
+    - '#8977B4'
+    - '#F2BE21'
+    - '#63E710'
+  rhythmicContrast: 0.6431315739173442
+typography_spectrum: 0.5827068
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: beaRSZ
