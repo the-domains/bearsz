@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: TidBits
-datePublished: '2015-11-04T21:23:53.665Z'
-dateModified: '2015-11-04T21:23:38.095Z'
+datePublished: '2015-11-04T21:34:40.255Z'
+dateModified: '2015-11-04T21:24:19.107Z'
 title: Interesting
 authors: []
 publisher:
